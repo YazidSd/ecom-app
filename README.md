@@ -11,3 +11,8 @@
 <img src="/Screenshots/sc5.png">
 <h2>Discovery service</h2>
 <img src="/Screenshots/sc7.png">
+<h2>Billing service</h2>
+<img src="/Screenshots/sc8.png">
+
+
+
